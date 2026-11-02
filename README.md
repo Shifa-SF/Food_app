@@ -7,6 +7,7 @@ A responsive and user-friendly web application built using React.js.
 🔗 "View Live Website" [(https://your-project.vercel.app)](https://food-app-brown-ten.vercel.app/)
 
 📸 Website Preview 
+
 <img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/ae24d384-252d-4d08-8c6e-362a6796ef66" />
 
 
@@ -65,9 +66,7 @@ my-react-project/
 ├── package.json
 └── vite.config.js
 
-👩‍💻 Developed By
-
-Your Name
+👩‍💻 Developed By Shifa Fathima
 
 GitHub: (https://github.com/Shifa-SF)
 
